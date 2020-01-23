@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Examen.Carrito">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carrito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Cliente">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAIEAEAAAACQAAAAAAAAAABCAAAAAEQ=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.ClientePremiun">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ClientePremiun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.ClientesRegistrado">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAFA=</HashCode>
+      <FileName>ClientesRegistrado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.ClientesSinReistro" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAEA=</HashCode>
+      <FileName>ClientesSinReistro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.CrearStockProductos">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAACAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrearStockProductos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Detalledelcarrito">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detalledelcarrito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.ListadoClientes">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ListadoClientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Program">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Producto">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAARAAAAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
